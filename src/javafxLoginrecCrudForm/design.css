@@ -1,0 +1,24 @@
+.white-Form{
+	-fx-background-color : #fff;
+}
+
+.other-form
+{
+	-fx-background-color : linear-gradient(to bottom right, #9e20a0, #5a3375);
+	-fx-text-fill : #fff;
+	-fx-font-size :14px;
+}
+
+.Create-btn
+{
+	-fx-background-color: transparent;
+	-fx-border-color:#fff;
+	-fx-border-width :1px;
+	-fx-text-fill :#fff;
+	
+} 
+.Create-btn :hover
+{
+	-fx-background-color :#fff;
+	-fx-text-fill :#000;
+}
